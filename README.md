@@ -50,3 +50,12 @@ The standard Python JSON parser will work just fine:
 
 `data = response.json()`
 
+Start the process by using the command:
+
+`python ms_trivia.py`
+
+Then it should be accessible (you can always test by using a URL in a browser).
+
+# UML Sequence Diagram
+
+![UML for Microservice](images/CS361%20UML.svg)
